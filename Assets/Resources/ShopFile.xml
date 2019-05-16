@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shop>
+  <Items>
+    <Item id="C001"/>
+    <Item id="C002"/>
+    <Item id="C003"/>
+    <Item id="W001"/>
+    <Item id="W002"/>
+    <Item id="W003"/>
+    <Item id="E001"/>
+    <Item id="E002"/>
+    <Item id="R001"/>
+    <Item id="R002"/>
+    <Item id="R003"/>
+    <Item id="R004"/>
+    <Item id="R005"/>
+    <Item id="R006"/>
+    <Item id="P001"/>
+    <Item id="P002"/>
+    <Item id="S001"/>
+  </Items>
+</Shop>

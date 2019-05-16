@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <Recipes id="P001">
+      <Recipe>
+        <Ingredient id="C001">
+          <Quantity>2</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>100</Cost>
+    </Recipes>
+    <Recipes id="P002">
+      <Recipe>
+        <Ingredient id="C002">
+          <Quantity>2</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>200</Cost>
+    </Recipes>
+    <Recipes id="P003">
+      <Recipe>
+        <Ingredient id="C001">
+          <Quantity>4</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>200</Cost>
+    </Recipes>
+    <Recipes id="P004">
+      <Recipe>
+        <Ingredient id="C003">
+          <Quantity>2</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>200</Cost>
+    </Recipes>
+    <Recipes id="P005">
+      <Recipe>
+        <Ingredient id="C001">
+          <Quantity>1</Quantity>
+        </Ingredient>
+        <Ingredient id="C002">
+          <Quantity>1</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>200</Cost>
+    </Recipes>
+  </List>
+</Container>

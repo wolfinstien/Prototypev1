@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Inventory>
+  <Items>
+    <Item name="Apple" id="C001">
+      <Rarity>1</Rarity>
+      <Type>Consumable</Type>
+      <Cost>10</Cost>
+      <Icon>Apple</Icon>
+      <Count>2</Count>
+    </Item>
+  </Items>
+</Inventory>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Abilities>
+    <Ability name="Basic Attack">
+      <Type>Damage</Type>
+      <Damage>Physical</Damage>
+      <Cooldown>2</Cooldown>
+      <Delay>0.5</Delay>
+      <Base>10</Base>
+      <Scale>1</Scale>
+      <Icon>BasicAttack</Icon>
+      <State>MeleeAttack</State>
+      <Effect>None</Effect>
+    </Ability>
+    <Ability name="Strong Attack">
+      <Type>Damage</Type>
+      <Damage>Physical</Damage>
+      <Cooldown>10</Cooldown>
+      <Delay>0.5</Delay>
+      <Base>5</Base>
+      <Scale>1.5</Scale>
+      <Icon>StrongAttack</Icon>
+      <State>MeleeAttack</State>
+      <Effect>None</Effect>
+    </Ability>
+    <Ability name="Fireball">
+      <Type>Damage</Type>
+      <Damage>Magical</Damage>
+      <Cooldown>5</Cooldown>
+      <Delay>0.5</Delay>
+      <Base>1</Base>
+      <Scale>1</Scale>
+      <Icon>FireAttack</Icon>
+      <State>PlayerCastFireball</State>
+      <Effect>1</Effect>
+    </Ability>
+  </Abilities>
+</List>

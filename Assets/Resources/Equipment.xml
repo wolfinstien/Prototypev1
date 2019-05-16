@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <Items name="Sword">
+      <Health>0</Health>
+      <Strength>5</Strength>
+      <Magic>0</Magic>
+      <Agility>0</Agility>
+      <ID>W001</ID>
+      <Type>Weapon</Type>
+    </Items>
+    <Items name="Leather Armor">
+      <Health>5</Health>
+      <Strength>5</Strength>
+      <Magic>5</Magic>
+      <Agility>0</Agility>
+      <ID>E001</ID>
+      <Type>Armor</Type>
+    </Items>
+    <Items name="Good Sword">
+      <Health>0</Health>
+      <Strength>10</Strength>
+      <Magic>0</Magic>
+      <Agility>0</Agility>
+      <ID>W002</ID>
+      <Type>Weapon</Type>
+    </Items>
+    <Items name="Rapier">
+      <Health>0</Health>
+      <Strength>12</Strength>
+      <Magic>0</Magic>
+      <Agility>5</Agility>
+      <ID>W003</ID>
+      <Type>Weapon</Type>
+    </Items>
+    <Items name="Cloth Armor">
+      <Health>5</Health>
+      <Strength>2</Strength>
+      <Magic>2</Magic>
+      <Agility>10</Agility>
+      <ID>E002</ID>
+      <Type>Armor</Type>
+    </Items>
+    <Items name="Project Ekko Bat">
+      <Health>0</Health>
+      <Strength>20</Strength>
+      <Magic>50</Magic>
+      <Agility>50</Agility>
+      <ID>S001</ID>
+      <Type>Weapon</Type>
+    </Items>
+  </Item>
+</List>

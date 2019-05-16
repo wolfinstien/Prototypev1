@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enemies>
+    /<!--<Enemy name="Basic">
+      <Health>30</Health>
+      <Strength>10</Strength>
+      <Magic>5</Magic>
+      <Agility>10</Agility>
+      <Common>C001</Common>
+      <Rare>R003</Rare>
+      <Prefab>Enemy</Prefab>
+    </Enemy>-->
+    <Enemy name="Mage">
+      <Health>40</Health>
+      <Strength>5</Strength>
+      <Magic>20</Magic>
+      <Agility>10</Agility>
+      <Common>R001</Common>
+      <Rare>C003</Rare>
+      <Gold>10</Gold>
+      <Heat>10</Heat>
+      <Essence>20</Essence>
+      <Prefab>MageEnemy</Prefab>
+    </Enemy>
+    <Enemy name="Theif">
+      <Health>30</Health>
+      <Strength>10</Strength>
+      <Magic>5</Magic>
+      <Agility>21</Agility>
+      <Common>C001</Common>
+      <Rare>R006</Rare>
+      <Gold>50</Gold>
+      <Heat>10</Heat>
+      <Essence>10</Essence>
+      <Prefab>AgileEnemy</Prefab>
+    </Enemy>
+    <Enemy name="Tank">
+      <Health>50</Health>
+      <Strength>20</Strength>
+      <Magic>1</Magic>
+      <Agility>21</Agility>
+      <Common>R002</Common>
+      <Rare>R003</Rare>
+      <Gold>10</Gold>
+      <Heat>20</Heat>
+      <Essence>10</Essence>
+      <Prefab>TankEnemy</Prefab>
+    </Enemy>
+  </Enemies>
+</List>

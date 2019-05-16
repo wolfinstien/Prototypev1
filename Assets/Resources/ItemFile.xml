@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Item name="Apple">
+      <ID>C001</ID>
+      <Rarity>1</Rarity>
+      <Type>Consumable</Type>
+      <Cost>10</Cost>
+      <Icon>Apple</Icon>
+    </Item>
+    <Item name="Orange">
+      <ID>C002</ID>
+      <Rarity>2</Rarity>
+      <Type>Consumable</Type>
+      <Cost>20</Cost>
+      <Icon>Orange</Icon>
+    </Item>
+    <Item name="Sword">
+      <ID>W001</ID>
+      <Rarity>1</Rarity>
+      <Type>Weapon</Type>
+      <Cost>100</Cost>
+      <Icon>Sword</Icon>
+    </Item>
+    <Item name="Leather Armor">
+      <ID>E001</ID>
+      <Rarity>1</Rarity>
+      <Type>Equipment</Type>
+      <Cost>100</Cost>
+      <Icon>LeatherArmor</Icon>
+    </Item>
+    <Item name="Wood">
+      <ID>R001</ID>
+      <Rarity>1</Rarity>
+      <Type>Resource</Type>
+      <Cost>20</Cost>
+      <Icon>Wood</Icon>
+    </Item>
+    <Item name="Leather">
+      <ID>R002</ID>
+      <Rarity>1</Rarity>
+      <Type>Resource</Type>
+      <Cost>20</Cost>
+      <Icon>LeatherResource</Icon>
+    </Item>
+    <Item name="Iron">
+      <ID>R003</ID>
+      <Rarity>2</Rarity>
+      <Type>Resource</Type>
+      <Cost>50</Cost>
+      <Icon>IronResource</Icon>
+    </Item>
+    <Item name="Health Potion (S)">
+      <ID>P001</ID>
+      <Rarity>1</Rarity>
+      <Type>Consumable</Type>
+      <Cost>50</Cost>
+      <Icon>SmallHealthPotion</Icon>
+    </Item>
+    <Item name="Stamina Potion">
+      <ID>P002</ID>
+      <Rarity>2</Rarity>
+      <Type>Consumable</Type>
+      <Cost>100</Cost>
+      <Icon>StaminaPotion</Icon>
+    </Item>
+    <Item name="Health Potion (M)">
+      <ID>P003</ID>
+      <Rarity>2</Rarity>
+      <Type>Consumable</Type>
+      <Cost>100</Cost>
+      <Icon>MediumHealthPotion</Icon>
+    </Item>
+    <Item name="Silver">
+      <ID>R004</ID>
+      <Rarity>3</Rarity>
+      <Type>Resource</Type>
+      <Cost>200</Cost>
+      <Icon>SilverResource</Icon>
+    </Item>
+    <Item name="Gold">
+      <ID>R005</ID>
+      <Rarity>4</Rarity>
+      <Type>Resource</Type>
+      <Cost>500</Cost>
+      <Icon>GoldResource</Icon>
+    </Item>
+    <Item name="Good Sword">
+      <ID>W002</ID>
+      <Rarity>2</Rarity>
+      <Type>Weapon</Type>
+      <Cost>200</Cost>
+      <Icon>BetterSword</Icon>
+    </Item>
+    <Item name="Rapier">
+      <ID>W003</ID>
+      <Rarity>3</Rarity>
+      <Type>Weapon</Type>
+      <Cost>400</Cost>
+      <Icon>Raiper</Icon>
+    </Item>
+    <Item name="Strength Potion">
+      <ID>P004</ID>
+      <Rarity>2</Rarity>
+      <Type>Consumable</Type>
+      <Cost>200</Cost>
+      <Icon>StrengthPotion</Icon>
+    </Item>
+    <Item name="Agility Potion">
+      <ID>P005</ID>
+      <Rarity>2</Rarity>
+      <Type>Consumable</Type>
+      <Cost>200</Cost>
+      <Icon>AgilityPotion</Icon>
+    </Item>
+    <Item name="Dragon Fruit">
+      <ID>C003</ID>
+      <Rarity>2</Rarity>
+      <Type>Consumable</Type>
+      <Cost>100</Cost>
+      <Icon>DragonFruit</Icon>
+    </Item>
+    <Item name="Cloth Armor">
+      <ID>E002</ID>
+      <Rarity>1</Rarity>
+      <Type>Equipment</Type>
+      <Cost>100</Cost>
+      <Icon>ClothArmor</Icon>
+    </Item>
+    <Item name="Cloth">
+      <ID>R006</ID>
+      <Rarity>1</Rarity>
+      <Type>Resource</Type>
+      <Cost>50</Cost>
+      <Icon>ClothResource</Icon>
+    </Item>
+    <Item name="Steel">
+      <ID>R007</ID>
+      <Rarity>3</Rarity>
+      <Type>Resource</Type>
+      <Cost>100</Cost>
+      <Icon>SteelResource</Icon>
+    </Item>
+    <Item name="Project Ekko Bat">
+      <ID>S001</ID>
+      <Rarity>5</Rarity>
+      <type>Equipment</type>
+      <Cost>0</Cost>
+      <Icon>ProjectEkkoBat</Icon>
+    </Item>
+  </Items>
+</List>

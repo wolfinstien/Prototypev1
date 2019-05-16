@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <Recipes id="W001">
+      <Recipe>
+        <Ingredient id="R001">
+          <Quantity>1</Quantity>
+        </Ingredient>
+        <Ingredient id="R003">
+          <Quantity>1</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>100</Cost>
+    </Recipes>
+    <Recipes id="E001">
+      <Recipe>
+        <Ingredient id="R002">
+          <Quantity>4</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>100</Cost>
+    </Recipes>
+    <Recipes id="W002">
+      <Recipe>
+        <Ingredient id="R003">
+          <Quantity>2</Quantity>
+        </Ingredient>
+        <Ingredient id="R002">
+          <Quantity>1</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>200</Cost>
+    </Recipes>
+    <Recipes id="W003">
+      <Recipe>
+        <Ingredient id="R007">
+          <Quantity>1</Quantity>
+        </Ingredient>
+        <Ingredient id="R002">
+          <Quantity>1</Quantity>
+        </Ingredient>
+        <Ingredient id="R005">
+          <Quantity>1</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>400</Cost>
+    </Recipes>
+    <Recipes id="E002">
+      <Recipe>
+        <Ingredient id="R006">
+          <Quantity>2</Quantity>
+        </Ingredient>
+      </Recipe>
+      <Cost>100</Cost>
+    </Recipes>
+  </List>
+</Container>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Consumables>
+    <Consumable name="Apple">
+      <ID>C001</ID>
+      <Type>Heal</Type>
+      <Strength>10</Strength>
+      <Duration>0</Duration>
+    </Consumable>
+    <Consumable name="Orange">
+      <ID>C002</ID>
+      <Type>Agility</Type>
+      <Strength>10</Strength>
+      <Duration>10</Duration>
+    </Consumable>
+    <Consumable name="Health Potion (S)">
+      <ID>P001</ID>
+      <Type>Heal</Type>
+      <Strength>30</Strength>
+      <Duration>0</Duration>
+    </Consumable>
+    <Consumable name="Stamina Potion">
+      <ID>P002</ID>
+      <Type>Agility</Type>
+      <Strength>25</Strength>
+      <Duration>60</Duration>
+    </Consumable>
+    <Consumable name="Health Potion (M)">
+      <ID>P003</ID>
+      <Type>Heal</Type>
+      <Strength>60</Strength>
+      <Duration>0</Duration>
+    </Consumable>
+    <Consumable name="Strength Potion">
+      <ID>P004</ID>
+      <Type>Strength</Type>
+      <Strength>50</Strength>
+      <Duration>10</Duration>
+    </Consumable>
+    <Consumable name="Agility Potion">
+      <ID>P005</ID>
+      <Type>Agility</Type>
+      <Strength>50</Strength>
+      <Duration>10</Duration>
+    </Consumable>
+    <Consumable name="Dragon Fruit">
+      <ID>C003</ID>
+      <Type>Strength</Type>
+      <Strength>10</Strength>
+      <Duration>10</Duration>
+    </Consumable>
+  </Consumables>
+</List>

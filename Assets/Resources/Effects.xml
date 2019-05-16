@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Effects>
+    <Effect name="Burn">
+      <ID>1</ID>
+      <Stat>None</Stat>
+      <Scale>1</Scale>
+      <Type>Magical</Type>
+      <Damage>1</Damage>
+      <Stacks>1</Stacks>
+      <Duration>10</Duration>
+    </Effect>
+    <Effect name="Power up">
+      <ID>2</ID>
+      <Stat>Strength</Stat>
+      <Scale>1.5</Scale>
+      <Type>None</Type>
+      <Damage>0</Damage>
+      <Stacks>2</Stacks>
+      <Duration>60</Duration>
+    </Effect>
+  </Effects>
+</List>
